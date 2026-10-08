@@ -221,7 +221,7 @@ select {
     grid-template-columns: 1fr 1fr;
 
     /* background: var(--navy-dark); */
-    background-image: url("images/bg\ herosection.png");
+    background-image: url("images/bg_herosection.png");
     background-size: cover;
     background-position: center;
 
